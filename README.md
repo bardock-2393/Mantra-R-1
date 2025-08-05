@@ -62,42 +62,8 @@ Develop an agentic chat assistant for visual understanding that can process vide
 
 ### **System Architecture Diagram**
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    Visual Understanding Chat Assistant          │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  ┌─────────────┐    ┌─────────────┐    ┌─────────────┐         │
-│  │   Frontend  │    │   Backend   │    │   AI Layer  │         │
-│  │             │    │             │    │             │         │
-│  │ ┌─────────┐ │    │ ┌─────────┐ │    │ ┌─────────┐ │         │
-│  │ │   UI    │◄────►│ │  Flask  │◄────►│ │ Gemini  │ │         │
-│  │ │  Chat   │ │    │ │  App    │ │    │ │   AI    │ │         │
-│  │ │Interface│ │    │ │         │ │    │ │  Model  │ │         │
-│  │ └─────────┘ │    │ └─────────┘ │    │ └─────────┘ │         │
-│  └─────────────┘    │             │    └─────────────┘         │
-│                     │ ┌─────────┐ │                            │
-│                     │ │  Redis  │ │                            │
-│                     │ │ Session │ │                            │
-│                     │ │ Storage │ │                            │
-│                     │ └─────────┘ │                            │
-│                     └─────────────┘                            │
-│                                                                 │
-├─────────────────────────────────────────────────────────────────┤
-│                    Video Processing Pipeline                    │
-│                                                                 │
-│  ┌─────────────┐    ┌─────────────┐    ┌─────────────┐         │
-│  │   Video     │    │   Event     │    │  Evidence   │         │
-│  │  Upload     │───►│ Recognition │───►│ Generation  │         │
-│  │             │    │             │    │             │         │
-│  │ ┌─────────┐ │    │ ┌─────────┐ │    │ ┌─────────┐ │         │
-│  │ │ OpenCV  │ │    │ │ Frame   │ │    │ │Screenshots│ │         │
-│  │ │Processing│ │    │ │Analysis │ │    │ │ & Clips │ │         │
-│  │ └─────────┘ │    │ └─────────┘ │    │ └─────────┘ │         │
-│  └─────────────┘    └─────────────┘    └─────────────┘         │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+<img width="1765" height="710" alt="image" src="https://github.com/user-attachments/assets/889cc49f-86e4-41f8-9c12-a7a30995aba6" />
+
 
 ### **Component Interactions**
 
