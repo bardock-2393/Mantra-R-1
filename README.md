@@ -164,9 +164,9 @@ pip install -r requirements.txt
 ```
 
 ### **3. Configure API Keys**
-```bash
+   ```bash
 # Create environment file
-cp .env.example .env
+   cp .env.example .env
 
 # Edit with your API key
 nano .env
