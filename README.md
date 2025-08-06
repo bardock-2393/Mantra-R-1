@@ -18,7 +18,9 @@ Experience the Visual Understanding Chat Assistant in action:
 ### **📺 Demo Video**
 Watch our comprehensive demo showcasing the system capabilities:
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/LNLOXMHwRxE" title="Visual Understanding Chat Assistant Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Demo Video](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/LNLOXMHwRxE)
+
+**Click the button above to watch the full demo video on YouTube**
 
 ## 📋 Table of Contents
 
