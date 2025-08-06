@@ -9,6 +9,17 @@
 
 > **Advanced Visual Understanding Chat Assistant** - An agentic AI system that processes video input, recognizes events, summarizes content, and engages in multi-turn conversations with context-aware understanding.
 
+## 🚀 Live Demo & Video
+
+### **🌐 Live Application**
+Experience the Visual Understanding Chat Assistant in action:
+**[🔗 Try it now: mantra-r-1.deepsantoshwar.xyz/](https://mantra-r-1.deepsantoshwar.xyz/)**
+
+### **📺 Demo Video**
+Watch our comprehensive demo showcasing the system capabilities:
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/LNLOXMHwRxE" title="Visual Understanding Chat Assistant Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## 📋 Table of Contents
 
 - [🎯 Project Overview](#-project-overview)
