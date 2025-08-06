@@ -372,6 +372,11 @@ AI: "I've identified several performance concerns:
 
 ## 🎬 Demo
 
+### **📺 Demo Video**
+Watch our comprehensive demo showcasing the Visual Understanding Chat Assistant in action:
+
+[![Demo Video](https://img.shields.io/badge/YouTube-Demo%20Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/LNLOXMHwRxE)
+
 ### **Demo Video Features**
 Our demo video showcases:
 
